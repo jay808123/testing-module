@@ -27,7 +27,7 @@ Note: This plan is a guideline and can be adjusted as needed throughout the hack
 
 ## Phase 2: Problem Solving 13:00 - 15:00
 - ### Team formation (2min)
-    - Do we split into 2-3 teams and focus on different exercises or we tackle each exercise together?
+    - Do we split into 2-3 teams and focus on different tasks or we tackle each task together?
 
 - ### Task creation (1h:45min)
     - Remembering that **quality over quantity**
