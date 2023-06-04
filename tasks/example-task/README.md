@@ -23,13 +23,13 @@ This tasks consists of preparing kitchen, boiling 3 eggs to desired levels and t
 - You must boil atleast 3 eggs with different level: soft, medium, and hard-boild
 
 
-## Usage *optional*
+## Usage
 
 - Soft-boiled: The yolk is still runny and the whites are partially set.
 - Medium-boiled: The yolk is partially set with a slightly creamy texture.
 - Hard-boiled: The yolk is fully set and the whites are firm.
 
-## Allowed packages/technologies *optional*
+## Allowed packages/technologies
 
 - A spoon
 - A pot
