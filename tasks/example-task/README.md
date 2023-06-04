@@ -20,7 +20,7 @@ This tasks consists of preparing kitchen, boiling 3 eggs to desired levels and t
 
 - A spoon must be used
 - A pot must be used
-- You must boil atleast 3 eggs with different level: soft, medium, and hard-boild
+- You must boil atleast 3 eggs with different level: soft, medium, and hard-boiled
 
 
 ## Usage
