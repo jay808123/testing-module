@@ -1,25 +1,26 @@
 # Wise Hackathon plan (09.06.2023)
 
-This plan provides a structured approach to maximize our productivity and achieve our goals effectively. Aprox time constraints are there to keep us on track. (we don't have a lot of time to work on this)
+This plan provides a structured approach to maximize our productivity and effectively achieve our goals within the given time constraints.
 
 Note: This plan is a guideline and can be adjusted as needed throughout the hackathon to accommodate unforeseen circumstances or opportunities for improvement.
 
 ## Phase 1: Brainstorming & Planning 10:45 - 12:00
 
 - ### Introduction (10min)
-    - Introduce and get comfortable with each other 
-    - Tackle any quick questions about kood/Jõhvi if needed
-    - Introduce the issue and the proposed solution
-    - Introduce this repository and its contents
+    - Introduce ourselves and get to know each other.
+    - Address any questions about kood/Jõhvi, if necessary.
+    - Present the issue and the proposed solution.
+    - Introduce this repository and its contents.
 
-- ### Learning outcomes (45min)
-    - Identify target audience characteristics and consider their needs and aspirations.
-    - Identify key concepts, skills, and knowledge areas essential for software development.
-    - Create a list of learning outcomes for the module based on the previous discussions and agreements. (student centered learning outcomes are: measurable, concise, meaningful, achievable and outcome-based)
-- ### General Task settings (20min)
+- ### Learning outcomes (50min)
+    - Identify the characteristics and needs of the target audience.
+    - Determine the key concepts, skills, and knowledge areas essential for software testing.
+    - Create a list of measurable, concise, meaningful, achievable, and outcome-based learning outcomes based on previous discussions and agreements.
+
+- ### General Task settings (15min)
     - Organize the learning outcomes in a logical and progressive manner to ensure a smooth learning progression.
-    - Map out the learning outcomes between 4-7 tasks (depending on the amount of essential learning outcomes identified in the previous discussion).
-    - Decide what technologies should be used: Javascript or Golang ecosystem
+    - Map out the learning outcomes into 4-7 tasks, depending on the identified essential learning outcomes.
+    - Decide on the preferred technology: JavaScript or Golang ecosystem.
     - Go through [TASK_FORMAT.md](/tasks/TASK_FORMAT.md) & [AUDIT_FORMAT.md](/tasks/AUDIT_FORMAT.md) in a more detailed manner.
   
 
@@ -27,15 +28,22 @@ Note: This plan is a guideline and can be adjusted as needed throughout the hack
 
 ## Phase 2: Problem Solving 13:00 - 15:00
 - ### Team formation (2min)
-    - Do we split into 2-3 teams and focus on different tasks or we tackle each task together?
+    - Determine whether to split into 2-3 teams to focus on different tasks or work collaboratively on each task.
 
 - ### Task creation (1h:45min)
-    - Remembering that **quality over quantity**
-    - High priority => Low priority
+    - Prioritize quality over quantity.
+    - Follow a flow from high-priority parts to low-priority parts.
 
 - ### Revision (13min)
-    - Going through each created task as a team
+    - Review each created task as a team, ensuring clarity, practicality, and alignment with the learning outcomes.
 
 ## Phase 3: Preparation of Deliverables 15:00 - 15:30
+- ### Creating a summary
+    - Write a summary of our solution, including the learning outcomes, tasks, achievements, lessons learned, and next steps for further developing this module.
 
 ## Phase 4: Reflection, Closing Remarks 15:30 - 16:00
+- ### Reflecting
+    - Share thoughts and feedback about teamwork.
+    - Discuss thoughts and feedback about the module.
+    - Provide thoughts and feedback on the team lead (Robert).
+    - Share thoughts and feedback on the overall event.
