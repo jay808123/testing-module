@@ -1,5 +1,3 @@
-
-
 # project-name | Language/Technology | Team Size
 
 
@@ -32,9 +30,3 @@ This section should contain list of allowed packages/technologies the student mu
 ## Advice
 
 This section should contain links to any helpful sources so that the student has a starting point and does not feel completely lost.
-
-
-
-
-
-
