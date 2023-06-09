@@ -13,7 +13,9 @@ You will learn to:
 This section should give a brief introduction to the coming task, provide some insight into the topics covered in the task: definition, importance etc..
 
 [ ] Understand the concept of integration testing and its significance in the software development process.
+
 [ ] Learn how integration tests differ from unit tests and end-to-end tests.
+
 [ ] Explore the benefits and challenges of integration testing.
 
 
