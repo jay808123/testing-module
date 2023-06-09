@@ -6,4 +6,3 @@
 ### 4. Did the student test division?
 ### 5. Did the student test division?
 ### 6. Did the student test various arguments to make sure the function handles unexpected data types?
-

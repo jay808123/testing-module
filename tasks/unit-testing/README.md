@@ -25,7 +25,7 @@ Make sure you cover the following items in your tests:
 
 ## Usage
 
-Example output:
+Example test:
 ```javascript
 import {describe, expect, test} from '@jest/globals';
 import {sum} from './sum';
