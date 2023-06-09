@@ -5,6 +5,7 @@
 After completing this task a student will be able to:
 - write unit tests
 - read the code written by other people and understand the functionality
+- assert that functions return the expected values matching the requirements
 
 ## Introduction
 
