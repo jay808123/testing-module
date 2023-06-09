@@ -35,6 +35,7 @@ Addressing this issue is crucial to empower kood/Jõhvi students with the necess
 ## Authors
 
 - [@JesusKris](https://github.com/JesusKris)
+- [@melnychukJS](https://github.com/melnychukJS)
 - [@oree](https://github.com/oree)
 
 ## License
