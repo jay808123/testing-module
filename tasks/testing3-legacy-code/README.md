@@ -1,22 +1,22 @@
-# project-name | Language/Technology | Team Size
+# Testing Legacy code | JavaScript | 1
 
 
 ## Learning outcomes
 
-This section should list out all the things the student will learn with this task.
+Your learning outcomes will be:
+- Reading code written by other people
+- Testing legacy code
 
-Testing legacy code
-Provide a tricky piece of code (function, etc) that has to be tested by a student
-Outcomes:
-Reading code written by other people
-
+There will be a tricky piece of existing code (function, etc) that has to be tested by a student
 
 
 
 ## Introduction
 
-
-This section should give a brief introduction to the coming task, provide some insight into the topics covered in the task: definition, importance etc..
+Often, in real life scenarios, a software developer is presented with a large existing code base.  
+Such legacy code often lacks automated tests.  
+To improve maintainability and quality, it is useful to add tests to legacy code.  
+This task simulates just such a scenario of adding tests to existing code.
 
 ## Objectives
 
