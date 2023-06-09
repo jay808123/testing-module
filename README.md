@@ -18,7 +18,12 @@ This knowledge gap hinders their ability to create robust and error-free softwar
 Addressing this issue is crucial to empower kood/Jõhvi students with the necessary skills and competencies in software testing, enabling them to build high-quality software applications and excel in the digital age.
 
 ## Solution
-##### **to be added**
+
+This module on software testing should be taken early on, so that students benefit from the acquired skills in future modules (BE, FE, etc).  By the time the student gets to this, they will have been through the “piscine” and they will know basic data types, data manipulation, looping.
+
+The module should be about 3-4 weeks, and contain maybe 4-7 tasks.
+
+The learnings should be practical - tools that companies actually use.  
 
 
 ## Accomplishments
